@@ -1,0 +1,17 @@
+# Consolidated requirements for this project
+# Use a compatible PyTorch build for your CUDA / CPU environment (see https://pytorch.org)
+diffusers>=0.11.0
+transformers>=4.25.1
+torch
+torchvision
+scipy
+ftfy
+fire
+wandb
+safetensors
+opencv-python
+Pillow
+tqdm
+peft
+accelerate
+mediapipe
