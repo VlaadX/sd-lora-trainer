@@ -1,5 +1,3 @@
-![Capa do Projeto](https://raw.githubusercontent.com/cloneofsimo/lora/master/README.md)
-
 Treinar adaptações LoRA (Low-Rank Adaptation) para o UNet de modelos Stable Diffusion, usando pares imagem + legenda (prompt) como dataset. O objetivo é produzir pesos compactos que adaptem o modelo base para um conjunto específico de imagens sem ter que ajustar todo o modelo pré-treinado.
 
 ---
